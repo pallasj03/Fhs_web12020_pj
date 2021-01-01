@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+    <head>
+        <style>
+            * {
+                margin:0;
+                padding:0;
+                box-sizing: border-box;
+            }
+            header {
+                text-align:center;
+                padding:1vh;
+            }
+            body {
+                background: #dee2ff;
+            }
+            header h1 {
+                color:Black;
+                padding:2vh;
+                width:60%;
+                margin:1vh auto;
+                border-radius:12px;
+            }
+            nav {
+                background:#14213d;
+                color:white;
+                padding:2vh;
+            }
+            footer {
+                background:#14213d;
+                color:white;
+                padding:2vh;
+                min-height:15vh;
+            }
+            .container {
+                min-height:75vh;
+                background:#edf2f4;
+                width:80%;
+                margin:auto;
+                padding:2vh;
+            }
+            .Jumbotron img {
+              width:100%;
+              display:block;
+              filter: grayscale(100%) blur;
+            }
+             
+            
+            
+            
+        </style>
+        <title>Jumbotron 2</title>
+    </head>
+    
+    <body>
+        <header>
+            <h1>Jumbotron 2</h1>
+            <p>
+                Pallas Jennings<br>
+                Web 1, 3rd HOUR<br>
+                DATE
+            </p>
+        </header>
+        <nav>
+            Placeholder
+        </nav>
+        <div class="jumbotron">
+          <img src="images/winterbg.png" alt= "my jumbo image" title="jumbotron 2">
+          
+        </div>
+        <div class="container">
+            <!-- Write Assignment code under here-->
+            
+            
+            
+            
+            
+            
+        </div><!-- End of container -->
+        <footer>
+            Placeholder
+            
+        </footer>
+
+    <!-- End of page code, but be sure to copy closing tags below-->
+    </body>
+</html>
